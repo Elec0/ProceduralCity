@@ -4,7 +4,7 @@ My final, which was written entirely in Java with LWJGL (Lightweight Java Game L
 I chose a nightscape because I could have black buildings with lit windows and give the illusion of more detail than there actually was, to save on rendering and generating power.
 
 I have attached the compiled Java file for both Windows and Linux. The Windows version has been extensively tested on Windows 7. The Linux version hasn't been tested whatsoever. Both versions require that Java be installed, preferably a more recent version. The controls to the programs are listed at the bottom of the email. 
-Here is a screenshot of the program in action: http://imgur.com/bCOvLwA
+Here is a screenshot of the program in action: http://imgur.com/bCOvLwA<br>
 The source code is packed in the .jar files as well, if either of you would like to view that. Java files can be opened just like zip files.
 
 What follows is a fairly detailed write-up of the different features I wrote, and some of my thinking behind them.
@@ -28,11 +28,12 @@ Unfortunately, after I had finished most of the project, I learned about bus lim
 
 
 The controls of the program are as follows:
-WASD: Move
-Mouse: Look
-Left Shift: Speed up movement
-Space: Ascend
-C: Toggle dev colors
-N: Generate new city
-P: Toggle wireframe
-Esc: Exit
+
+WASD: Move<br>
+Mouse: Look<br>
+Left Shift: Speed up movement<br>
+Space: Ascend<br>
+C: Toggle dev colors<br>
+N: Generate new city<br>
+P: Toggle wireframe<br>
+Esc: Exit<br>
