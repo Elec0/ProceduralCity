@@ -1,5 +1,13 @@
 ProceduralCity
 ==============
+
+Compiling
+=========
+I'll put this here first before the writeup of the program. You need LWJGL (http://www.lwjgl.org/) and  Slick (http://slick.cokeandcode.com/) to compile the project. You can figure out how to include the libraries in your IDE of choice.
+
+Writeup
+=======
+
 My final, which was written entirely in Java with LWJGL (Lightweight Java Game Library), is a 3D procedural city nightscape generation program. The entire thing has no pre-made assets whatsoever, everything is generated in realtime whenever a new city is generated. 
 I chose a nightscape because I could have black buildings with lit windows and give the illusion of more detail than there actually was, to save on rendering and generating power.
 
